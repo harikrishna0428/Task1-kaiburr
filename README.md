@@ -83,14 +83,32 @@ The application only allows the following commands to be executed:
 
 ## Screenshots
 
-### Task List
-<!-- Add screenshot of task list view here -->
+### Get All Tasks
+![Get all Tasks](Screenshots/Get%20all%20Tasks.jpg)
+
+### Get Task By ID
+![Get Task By ID](Screenshots/Get%20task%20By%20ID.jpg)
 
 ### Create New Task
-<!-- Add screenshot of create task form here -->
+![Create Task](Screenshots/Create%20Task.jpg)
 
-### Task Execution History
-<!-- Add screenshot of execution history here -->
+### Execute Task
+![Execute Task](Screenshots/Execute%20Task.jpg)
+
+### Find Tasks by Name
+![Find Tasks by name](Screenshots/Find%20Tasks%20by%20name.jpg)
+
+### Delete Task
+![Delete Task](Screenshots/Delete%20Task.jpg)
+
+### Task Not Found by ID
+![Task Not Found by ID](Screenshots/Task%20Not%20found.jpg)
+
+### Task Not Found by Name
+![Task Not Found by Name](Screenshots/Task%20Not%20found%201.jpg)
+
+### Security Validation
+![Security Validation](Screenshots/Security%20val.jpg)
 
 ## Contributing
 
