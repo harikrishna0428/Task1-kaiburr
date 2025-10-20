@@ -49,8 +49,8 @@ The application will start on `http://localhost:8080` by default.
 - `POST /tasks` - Create a new task
   ```json
   {
-    "name": "Task Name",
-    "owner": "Owner Name",
+    "name": "Hello Krishna",
+    "owner": "Hari",
     "command": "echo Hello World"
   }
   ```
